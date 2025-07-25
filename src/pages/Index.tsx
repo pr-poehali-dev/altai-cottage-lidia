@@ -99,7 +99,7 @@ const Index = () => {
               className="text-lg px-8 py-6 border-primary text-primary hover:bg-primary hover:text-white"
             >
               <Icon name="Phone" className="mr-2" />
-              +7 (999) 123-45-67
+              +7 (913) 007-07-36
             </Button>
           </div>
         </div>
@@ -307,7 +307,7 @@ const Index = () => {
               <div className="space-y-2 text-white/80">
                 <div className="flex items-center">
                   <Icon name="Phone" size={16} className="mr-2" />
-                  +7 (999) 123-45-67
+                  +7 (913) 007-07-36
                 </div>
                 <div className="flex items-center">
                   <Icon name="Mail" size={16} className="mr-2" />
